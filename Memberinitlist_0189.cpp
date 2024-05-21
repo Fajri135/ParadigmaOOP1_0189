@@ -6,6 +6,10 @@ using namespace std;
 //Minimal Commite = 15
 
 class mahasiswa {
+private:
+	const int id;
+	string nama;
+	float nilai;
 
 };
 
